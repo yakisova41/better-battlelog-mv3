@@ -29,7 +29,7 @@ Nope. There is nothing to contribute to anymore. You should've came sometime bet
 
 ## All versions
 
-Head to directory [versions](https://github.com/brainfoolong/better-battlelog/blob/master/versions) for all ever released versions. I definetely do not recommend to take out any code reference from this, it's older than what is good for you.
+Head to directory [versions](https://github.com/yakisova41/better-battlelog-mv3/blob/master/versions) for all ever released versions. I definetely do not recommend to take out any code reference from this, it's older than what is good for you.
 
 ## Visit our last, once and for all, website
 
@@ -41,11 +41,11 @@ All things what we ever have talked about are still here. Check this out -> [For
 
 ## Plugins / Themes
 
-Most plugins and themes have been developed by the community. The code for this is also in this repository and is still functioning for the extension. If you are a former plugin/theme developer and you want to remove your code from this repository, just contact me via [Issues Tracker](https://github.com/brainfoolong/better-battlelog/issues) or fork, remove and do a pull request.
+Most plugins and themes have been developed by the community. The code for this is also in this repository and is still functioning for the extension. If you are a former plugin/theme developer and you want to remove your code from this repository, just contact me via [Issues Tracker](https://github.com/yakisova41/better-battlelog-mv3/issues) or fork, remove and do a pull request.
 
 ## Questions?
 
-You can use the [Issues Tracker](https://github.com/brainfoolong/better-battlelog/issues) to ask me something about the past, the present and the future.
+You can use the [Issues Tracker](https://github.com/yakisova41/better-battlelog-mv3/issues) to ask me something about the past, the present and the future.
 
 ## After party support 
 
