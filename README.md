@@ -1,7 +1,10 @@
 ![Header](https://github.com/brainfoolong/better-battlelog/raw/master/images/github-header.jpg)
 
 > [!NOTE]
-> This extension is a fork of the original version 5.3.2, fixed to support manifest v3.
+> This extension is a fork of the original [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog).
+
+> [!IMPORTANT]
+> We are using the v5.3.2 code archived on [this third-party extension distribution site](https://chrome-stats.com/d/better-battlelog-fix-bblog/download).
 
 # Better Battlelog - Worldwide Leading Battlelog Browser Addon (It will ever be)
 
