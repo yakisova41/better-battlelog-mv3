@@ -1,7 +1,7 @@
 ![Header](https://github.com/brainfoolong/better-battlelog/raw/master/images/github-header.jpg)
 
 > [!NOTE]
-> This extension is a fork of the original [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog).
+>  This is a fork of [Razer2015/better-battlelog](https://github.com/Razer2015/better-battlelog), which is a fork of [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog).
 
 > [!IMPORTANT]
 > We are using the v5.3.2 code archived on [this third-party extension distribution site](https://chrome-stats.com/d/better-battlelog-fix-bblog/download).
